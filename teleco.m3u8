@@ -1,15 +1,27 @@
 #EXTM3U
-#EXTINF:-1,Discovery HD
-http://38.56.118.88:4000/play/a03c/index.m3u8
-#EXTINF:-1,Discovery Kids HD
-http://38.56.118.88:4000/play/a01m/index.m3u8
-#EXTINF:-1,Discovery Theater HD
-http://38.56.118.88:4000/play/a01o/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://38.56.118.88:4000/play/a08g/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://38.56.118.88:4000/play/a025/index.m3u8
-#EXTINF:-1,Win Sports HD
-http://204.199.119.6:1012/play/a03i
-#EXTINF:-1,Win Sports+ HD
-http://204.199.119.6:1012/play/a01b
+#EXTINF:0,Discovery Channel
+http://138.186.20.13:23200/play/a0e6
+#EXTINF:0,Discovery Channel HD
+http://138.186.20.13:23200/play/a09b
+#EXTINF:0,Discovery H&H HD
+http://138.186.20.13:23200/play/a0fc
+#EXTINF:0,Discovery ID HD
+http://138.186.20.13:23200/play/a05d
+#EXTINF:0,Discovery ID HD
+http://138.186.20.13:23200/play/a09f
+#EXTINF:0,Discovery Kids HD
+http://138.186.20.13:23200/play/a06j
+#EXTINF:0,Discovery Kids HD SAT
+http://138.186.20.13:23200/play/a0fb
+#EXTINF:0,Discovery Science
+http://138.186.20.13:23200/play/a06e
+#EXTINF:0,Discovery Theater HD
+http://138.186.20.13:23200/play/a0fd
+#EXTINF:0,Discovery Turbo
+http://138.186.20.13:23200/play/a0ch
+#EXTINF:0,Discovery Turbo
+http://138.186.20.13:23200/play/a0c1
+#EXTINF:0,Discovery World HD
+http://138.186.20.13:23200/play/a09c
+#EXTINF:0,Discovery World HD
+http://138.186.20.13:23200/play/a05w
