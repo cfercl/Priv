@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0,Discovery Theater HD
 http://138.186.20.13:23200/play/a0fd
+#EXTINF:0,Win Sports
+http://138.186.20.13:23200/play/a0fw
