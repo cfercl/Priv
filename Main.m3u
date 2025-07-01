@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,PlutoTV_tv_US
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u
+#EXTINF:-1,RakutenTV_tv
+https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/m3u/RakutenTV_tv.m3u
