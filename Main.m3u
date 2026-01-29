@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1,PlutoTV_tv_US
-https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u
-#EXTINF:-1,RakutenTV_tv
-https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/m3u/RakutenTV_tv.m3u
+
+#EXTM3U x-tvg-url="https://www.gatotv.com/guia_tv/completa"
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es",Caracol HD 
+http://181.78.7.90:12500/play/a06b/index.m3u8
