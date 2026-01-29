@@ -1,6 +1,5 @@
 #EXTM3U
 
-#EXTM3U x-tvg-url="https://www.gatotv.com/guia_tv/completa"
-
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es",Caracol HD 
 http://181.78.7.90:12500/play/a06b/index.m3u8
+
