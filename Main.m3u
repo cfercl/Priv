@@ -1,5 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es",Caracol HD 
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es",Caracol.co
 http://181.78.7.90:12500/play/a06b/index.m3u8
+
 
